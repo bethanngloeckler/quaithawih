@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aecieziowi.tricksteronline.org/sitemap.xml
